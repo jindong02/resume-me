@@ -1,0 +1,423 @@
+@font-face {
+  font-family: 'stylingcvHobbies';
+  src:  url('stylingcvHobbies.eot?ypetl0');
+  src:  url('stylingcvHobbies.eot?ypetl0#iefix') format('embedded-opentype'),
+    url('stylingcvHobbies.ttf?ypetl0') format('truetype'),
+    url('stylingcvHobbies.woff?ypetl0') format('woff'),
+    url('stylingcvHobbies.svg?ypetl0#stylingcvHobbies') format('svg');
+  font-weight: normal;
+  font-display: swap;
+  font-style: normal;
+} 
+
+[class^="iconHobbies-"], [class*=" iconHobbies-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'stylingcvHobbies' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconHobbies-Tennis:before {
+  content: "\e962";
+  
+}
+.iconHobbies-Archery:before {
+  content: "\e964";
+  
+}
+.iconHobbies-Football:before {
+  content: "\e965";
+  
+}
+.iconHobbies-Dart:before {
+  content: "\e966";
+  
+}
+.iconHobbies-Music:before {
+  content: "\e900";
+  
+}
+.iconHobbies-News-paper:before {
+  content: "\e901";
+  
+}
+.iconHobbies-News:before {
+  content: "\e902";
+  
+}
+.iconHobbies-Online-Shop:before {
+  content: "\e903";
+  
+}
+.iconHobbies-Painting:before {
+  content: "\e905";
+  
+}
+.iconHobbies-Partying:before {
+  content: "\e906";
+  
+}
+.iconHobbies-Photography:before {
+  content: "\e907";
+  
+}
+.iconHobbies-Guitar:before {
+  content: "\e908";
+  
+}
+.iconHobbies-Play-Piano:before {
+  content: "\e909";
+  
+}
+.iconHobbies-Play-Violin:before {
+  content: "\e90a";
+  
+}
+.iconHobbies-Baby:before {
+  content: "\e90b";
+  
+}
+.iconHobbies-Play-with-Dog:before {
+  content: "\e90c";
+  
+}
+.iconHobbies-Poker:before {
+  content: "\e90d";
+  
+}
+.iconHobbies-Pool:before {
+  content: "\e90e";
+  
+}
+.iconHobbies-Park:before {
+  content: "\e90f";
+  
+}
+.iconHobbies-Radio:before {
+  content: "\e910";
+  
+}
+.iconHobbies-Reading:before {
+  content: "\e911";
+  
+}
+.iconHobbies-Rugby:before {
+  content: "\e912";
+  
+}
+.iconHobbies-Running:before {
+  content: "\e913";
+  
+}
+.iconHobbies-Sculpting:before {
+  content: "\e914";
+  
+}
+.iconHobbies-Shooting:before {
+  content: "\e915";
+  
+}
+.iconHobbies-Shopping:before {
+  content: "\e916";
+  
+}
+.iconHobbies-Singing:before {
+  content: "\e918";
+  
+}
+.iconHobbies-Ski:before {
+  content: "\e919";
+  
+}
+.iconHobbies-sleeping-1:before {
+  content: "\e91a";
+  
+}
+.iconHobbies-Sleeping:before {
+  content: "\e91b";
+  
+}
+.iconHobbies-Smoking:before {
+  content: "\e91d";
+  
+}
+.iconHobbies-Snow-Boarding:before {
+  content: "\e91e";
+  
+}
+.iconHobbies-Socialising:before {
+  content: "\e91f";
+  
+}
+.iconHobbies-Twimming:before {
+  content: "\e920";
+  
+}
+.iconHobbies-Table-Tennis:before {
+  content: "\e921";
+  
+}
+.iconHobbies-Taking-Bath:before {
+  content: "\e922";
+  
+}
+.iconHobbies-On-Phone:before {
+  content: "\e923";
+  
+}
+.iconHobbies-Talking:before {
+  content: "\e924";
+  
+}
+.iconHobbies-Travelling:before {
+  content: "\e925";
+  
+}
+.iconHobbies-Treadmill:before {
+  content: "\e926";
+  
+}
+.iconHobbies-TV:before {
+  content: "\e927";
+  
+}
+.iconHobbies-Volleyball:before {
+  content: "\e928";
+  
+}
+.iconHobbies-Walking:before {
+  content: "\e929";
+  
+}
+.iconHobbies-Wash-car:before {
+  content: "\e92a";
+  
+}
+.iconHobbies-Watching-TV:before {
+  content: "\e92b";
+  
+}
+.iconHobbies-Web-Surfing:before {
+  content: "\e92c";
+  
+}
+.iconHobbies-Weight-Lifting:before {
+  content: "\e92d";
+  
+}
+.iconHobbies-Wine-Tasting:before {
+  content: "\e92e";
+  
+}
+.iconHobbies-Xbox:before {
+  content: "\e92f";
+  
+}
+.iconHobbies-Yoga:before {
+  content: "\e930";
+  
+}
+.iconHobbies-Drinking:before {
+  content: "\e931";
+  
+}
+.iconHobbies-Driving:before {
+  content: "\e932";
+  
+}
+.iconHobbies-Eating:before {
+  content: "\e933";
+  
+}
+.iconHobbies-Family:before {
+  content: "\e934";
+  
+}
+.iconHobbies-Feed-Baby:before {
+  content: "\e935";
+  
+}
+.iconHobbies-Fishing:before {
+  content: "\e936";
+  
+}
+.iconHobbies-Galleries:before {
+  content: "\e937";
+  
+}
+.iconHobbies-Gambling:before {
+  content: "\e938";
+  
+}
+.iconHobbies-Gardening:before {
+  content: "\e939";
+  
+}
+.iconHobbies-Ghost-Hunting:before {
+  content: "\e93a";
+  
+}
+.iconHobbies-Gossips:before {
+  content: "\e93b";
+  
+}
+.iconHobbies-Grow-Moustache:before {
+  content: "\e93c";
+  
+}
+.iconHobbies-Gym:before {
+  content: "\e93d";
+  
+}
+.iconHobbies-Gymnastic:before {
+  content: "\e93e";
+  
+}
+.iconHobbies-Hill-Walking:before {
+  content: "\e93f";
+  
+}
+.iconHobbies-Historic-places:before {
+  content: "\e940";
+  
+}
+.iconHobbies-Holidays:before {
+  content: "\e941";
+  
+}
+.iconHobbies-Horror-Movies:before {
+  content: "\e942";
+  
+}
+.iconHobbies-Horse-Riding:before {
+  content: "\e943";
+  
+}
+.iconHobbies-House-Repair:before {
+  content: "\e944";
+  
+}
+.iconHobbies-Ice-Hockey:before {
+  content: "\e945";
+  
+}
+.iconHobbies-Ice-Skating:before {
+  content: "\e947";
+  
+}
+.iconHobbies-Jog:before {
+  content: "\e948";
+  
+}
+.iconHobbies-Karate:before {
+  content: "\e949";
+  
+}
+.iconHobbies-Kite-Flying:before {
+  content: "\e94a";
+  
+}
+.iconHobbies-Friends:before {
+  content: "\e94b";
+  
+}
+.iconHobbies-Meet-People:before {
+  content: "\e94c";
+  
+}
+.iconHobbies-Motor-Bike:before {
+  content: "\e94d";
+  
+}
+.iconHobbies-Movies:before {
+  content: "\e94e";
+  
+}
+.iconHobbies-Cycling:before {
+  content: "\e94f";
+  
+}
+.iconHobbies-Badminton:before {
+  content: "\e950";
+  
+}
+.iconHobbies-Baking:before {
+  content: "\e951";
+  
+}
+.iconHobbies-Basket-Ball:before {
+  content: "\e952";
+  
+}
+.iconHobbies-Boating:before {
+  content: "\e953";
+  
+}
+.iconHobbies-Bowling:before {
+  content: "\e954";
+  
+}
+.iconHobbies-Cards:before {
+  content: "\e955";
+  
+}
+.iconHobbies-Chess:before {
+  content: "\e956";
+  
+}
+.iconHobbies-Cinema:before {
+  content: "\e957";
+  
+}
+.iconHobbies-Cleaning:before {
+  content: "\e958";
+  
+}
+.iconHobbies-Climbing:before {
+  content: "\e959";
+  
+}
+.iconHobbies-Games:before {
+  content: "\e95a";
+  
+}
+.iconHobbies-Cooking:before {
+  content: "\e95b";
+  
+}
+.iconHobbies-Cricket:before {
+  content: "\e95c";
+  
+}
+.iconHobbies-Dancing:before {
+  content: "\e95d";
+  
+}
+.iconHobbies-Dating:before {
+  content: "\e95e";
+  
+}
+.iconHobbies-Dog-Walking:before {
+  content: "\e95f";
+  
+}
+.iconHobbies-Relaxing:before {
+  content: "\e960";
+  
+}
+.iconHobbies-Dreaming:before {
+  content: "\e961";
+  
+}
+.iconHobbies-Swimming:before {
+  content: "\e904";
+ 
+}
